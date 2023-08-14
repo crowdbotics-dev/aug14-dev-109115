@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "63212beab9af174b109821b5d5f4c53564920791e1da63b88e07f26cbdf7e9b0"
+            "sha256": "7f606a231007eef1081fb3e66c6948612e87525172bfcb99f775be018fd802cf"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -63,6 +63,10 @@
         "cb-django-drive": {
             "editable": true,
             "path": "./modules/django_drive"
+        },
+        "cb-django-hubspot": {
+            "editable": true,
+            "path": "./modules/django_hubspot"
         },
         "cb-django-social-auth": {
             "editable": true,
